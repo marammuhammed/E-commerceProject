@@ -1,0 +1,9 @@
+
+################################################################################################################################################
+Starting Execution:	"1 out of 1" test cases in the current suite
+Test Method:		"LoginTests.LoginFail"
+################################################################################################################################################
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/Data.json"". @03-01-2023 16:34:24.0941 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/Data.json"". @03-01-2023 16:34:24.0941 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "src/test/resources/testDataFiles/Data.json"". @03-01-2023 16:34:28.0212 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/Data.json"". @03-01-2023 16:34:28.0212 PM
